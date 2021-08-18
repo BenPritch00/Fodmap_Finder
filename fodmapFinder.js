@@ -2,6 +2,7 @@
 const sampleRecipe = "garlic, potatoes, cherries, butter" 
 
 const sampleFodmaps = ["garlic", "onion", "milk"]
+
 function recipeChecker(recipe, fodmaps) {
     // convert our recipe to a list of words
     // Check each ingredient in our recipe to see if it's a fodmap
@@ -12,4 +13,13 @@ function recipeChecker(recipe, fodmaps) {
           }
     }
 }
-recipeChecker(sampleRecipe, sampleFodmaps)
+
+function checkTextBoxRecipe() {
+    const recipeInput = document.getElementById('recipeInput').value;
+    recipeChecker(recipeInput, sampleFodmaps)
+}
+
+const submitButton = document.getElementById("submit").onclick = checkTextBoxRecipe
+console.log(submitButton)
+const recipeInput = document.getElementById('recipeInput').value 
+console.log(recipeInput)
