@@ -20,6 +20,3 @@ function checkTextBoxRecipe() {
 }
 
 const submitButton = document.getElementById("submit").onclick = checkTextBoxRecipe
-console.log(submitButton)
-const recipeInput = document.getElementById('recipeInput').value 
-console.log(recipeInput)
