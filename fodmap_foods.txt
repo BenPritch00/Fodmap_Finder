@@ -5,16 +5,16 @@ cherries
 Artichoke
 Asparagus
 Baked beans
-Beetroot, fresh
+Beetroot
 Black eyed peas
 Broad beans
 Butter beans
 Cassava
 Cauliflower
-Celery - greater than 5cm of stalk
+Celery 
 Choko
 Falafel
-Fermented cabbage e.g. sauerkraut
+sauerkraut
 Haricot beans
 Kidney beans
 Lima beans
@@ -22,11 +22,10 @@ Leek bulb
 Mange Tout
 Mung beans
 Mushrooms
-Peas, sugar snap
-Pickled vegetables
+snap peas
 Red kidney beans
-Savoy Cabbage - over 1/2 cup
-Soy beans / soya beans
+Savoy Cabbage
+Soy beans
 Split peas
 Scallions
 Spring Onions
@@ -35,7 +34,7 @@ Taro
 Apples 
 Apricots
 Avocado
-Bananas, ripe
+Bananas
 Blackberries
 Blackcurrants
 Boysenberry
@@ -46,37 +45,37 @@ Feijoa
 Figs
 Goji berries
 Grapefruit
-Guava, unripe
+Guava
 Lychee
 Mango
 Nectarines
-Paw paw, dried
 Peaches
 Pears
 Persimmon
-Pineapple, dried
+Pineapple
 Plums
 Pomegranate
 Prunes
-Raisins - over 1 tbsp / 13g
+Raisins 
 Sea buckthorns
 Sultanas
 Tamarillo
-Tinned fruit in apple / pear juice
+Apple juice
 Watermelon
-Chorizo if garlic added
+Chorizo 
 Sausages
-Biscuits / cookies including chocolate chip cookies
-Bread, wheat - over 1 slice
+Biscuits
+Cookies
+
 Breadcrumbs
 Cakes
-Cereal bar, wheat based
+Cereal bar
 Croissants
 Crumpets
 Egg noodles
 Muffins
 Pastries
-Pasta, wheat over 1/2 cup cooked
+Pasta
 Udon noodles
 Wheat bran
 Wheat cereals
@@ -86,9 +85,9 @@ Wheat noodles
 Wheat rolls
 Almond meal
 Amaranth flour
-Barley including flour
+Barley 
 Bran cereals
-Bread:
+
 Granary bread
 Multigrain bread
 Naan
@@ -111,70 +110,61 @@ Rye crispbread
 Semolina
 Spelt flour
 Agave
-Caviar dip
+Caviar
 Fructose
 Fruit bar
-Gravy, if it contains onion
-High fructose corn syrup (HFCS)
-Hummus / houmous
+Gravy
+High fructose corn syrup 
+Hummus
 Honey
-Jam, mixed berries
-Jam, strawberry, if contains HFCS
+Jam
 Molasses
-Pesto sauce
-Quince paste
-Relish / vegetable pickle
-Stock cubes
-Sugar free sweets containing polyols - usually ending in -ol or isomalt
-Sweeteners and corresponding E number:
+Pesto 
+Quince
+Relish 
+plyols
+
 Inulin
-Isomalt (E953 / 953)
-Lactitol (E966 / 966)
-Maltitol (E965 / 965)
-Mannitol (E241 / 421)
-Sorbitol (E420 / 420)
-Xylitol (E967 / 967)
-Tzatziki dip
-FOS - fructooligosaccharides
+Isomalt 
+Lactitol 
+Maltitol
+Mannitol 
+Sorbitol 
+Xylitol 
+Tzatziki
+FOS 
 Inulin
 Oligofructose
-Beer - if drinking more than one bottle
-Cordial, apple and raspberry with 50-100% real juice
-Cordial, orange with 25-50% real juice
-Fruit and herbal teas with apple added
-Fruit juices in large quantities
-Fruit juices made of apple, pear, mango
+Beer 
+Cordial
+Fruit juices
 Kombucha
-Malted chocolate flavored drink
-Meal replacement drinks containing milk based products e.g. Ensure, Slim Fast
-Orange juice in quantities over 100ml
+Orange juice
 Quinoa milk
 Rum
-Sodas containing High Fructose Corn Syrup (HFCS)
-Soy milk made with soy beans - commonly found in USA
+Soda
+Soy milk
 Sports drinks
-Tea:
-Black tea with added soy milk
-Chai tea, strong
-Dandelion tea, strong
+Chai tea
+Dandelion tea
 Fennel tea
 Chamomile tea
-Herbal tea, strong
+Herbal tea
 Oolong tea
-Wine - if drinking more than one glass
-Whey protein, concentrate unless lactose free
-Whey protein, hydrolyzed unless lactose free
+Wine 
+Whey concentrate
+Whey hydrolyzed
 Buttermilk
-Cheese, ricotta
+ricotta cheese
 Cream
 Custard
 Gelato
 Ice cream
 Kefir
-Cow milk
+ milk
 Goat milk
 Evaporated milk
 Sheep's milk
-Sour cream - over 2tbsp
+Sour cream 
 Yoghurt
 Carob powder / carob flour
